@@ -1,0 +1,17 @@
+.dart_tool
+.idea
+.vscode
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.git
+android
+ios
+linux
+macos
+test
+windows
+*.iml
+*.log
+pubspec.lock 
